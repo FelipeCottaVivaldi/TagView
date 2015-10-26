@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default -->
+    <dimen name="default_spacing_veryVerySmall">1dp</dimen>
+    <dimen name="default_spacing_verySmall">2dp</dimen>
+    <dimen name="default_spacing_small">4dp</dimen>
+    <dimen name="default_spacing_medium">8dp</dimen>
+    <dimen name="default_spacing_large">16dp</dimen>
+    <dimen name="default_textSize_verySmall">12sp</dimen>
+    <dimen name="default_textSize_small">14sp</dimen>
+    <dimen name="default_textSize_medium">16sp</dimen>
+    <dimen name="default_textSize_large">18sp</dimen>
+    <dimen name="default_textSize_veryLarge">24sp</dimen>
+
+    <!-- TO BE CONTINUED -->
+
+    <!-- Base Navigation Toolbar -->
+    <dimen name="base_navigation_toolbar_height">56dp</dimen>
+    <dimen name="base_navigation_toolbar_minHeight">@dimen/base_navigation_toolbar_height</dimen>
+
+    <!-- Base Loading -->
+    <dimen name="base_loading_progress_size">48dp</dimen>
+
+    <dimen name="content_item_container_padding">8dp</dimen>
+    <dimen name="content_item_title_textSize">16sp</dimen>
+    <dimen name="content_item_description_textSize">12sp</dimen>
+
+    <dimen name="content_item_grid_container_margin">1dp</dimen>
+    <dimen name="linear_horizontal_recycler_height">65dp</dimen>
+
+    <dimen name="base_navigation_drawer_content_width">300dp</dimen>
+
+</resources>
